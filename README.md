@@ -5,7 +5,7 @@
 
 🔹 Mengimplementasikan struktur data, algoritma sorting/searching, dan konsep OOP dengan JavaFX
 
-📋 Fitur Utama
+## 📋 Fitur Utama
 CRUD Data Siswa (NIM, Nama, Nilai Matematika, Inggris, Pemrograman)
 
 Perhitungan Otomatis Nilai Akhir (Rata-rata 3 mata pelajaran)
@@ -22,7 +22,7 @@ Import/Export Data ke/dari file CSV
 
 Validasi Input (NIM 11 digit, nilai 0-100)
 
-🛠 Teknologi & Konsep
+## 🛠 Teknologi & Konsep
 Java 17 dengan JavaFX (GUI)
 
 OOP (Class, Inheritance, Encapsulation)
@@ -35,19 +35,21 @@ File I/O (Membaca/menulis CSV)
 
 Rekursi (Perhitungan total nilai)
 
-📊 Screenshot
+## 📊 Screenshot
 (Tambahkan screenshot tampilan aplikasi di sini)
 
-📝 Catatan UTS
+## 📝 Catatan UTS
 Dibuat untuk memenuhi requirements ujian tengah semester
 
 Fokus pada implementasi algoritma dan struktur data
 
 Kode mencakup komentar penjelasan tiap fungsi penting
 
-🎯 Cara Penggunaan
+## 🎯 Cara Penggunaan
 Clone repository
 
 Jalankan StudentManagementApp.java
 
 Input data siswa dan gunakan fitur sorting/pencarian
+
+## Link Video : 

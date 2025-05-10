@@ -36,7 +36,7 @@
 🔹Rekursi (Perhitungan total nilai)
 
 ## 📊 Screenshot
-(Tambahkan screenshot tampilan aplikasi di sini)
+![WhatsApp Image 2025-05-11 at 03 14 28_90a066b8](https://github.com/user-attachments/assets/ebefdec9-e923-4343-bf8c-31486ae2afb4)
 
 ## 📝 Catatan UTS
 🔹Dibuat untuk memenuhi requirements ujian tengah semester

@@ -1,4 +1,4 @@
-# Student Management System - UTS Algoritma & Pemrograman 2
+Student Management System - UTS Algoritma & Pemrograman 2
 Aplikasi Manajemen Nilai Siswa dengan JavaFX
 🔹 Proyek UTS Take Home untuk mata kuliah Algoritma & Pemrograman 2 di Universitas Teknologi Bandung
 🔹 Mengimplementasikan struktur data, algoritma sorting/searching, dan konsep OOP dengan JavaFX
